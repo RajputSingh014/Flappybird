@@ -1,4 +1,4 @@
-# Flappybird by Rohan           [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+# Flappybird          [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 This Game Is Made Using Python 3.7 & Pygame Module.
 Hope You Will Like The Game.. and also u can use the code to make your own version of the game.
 
@@ -16,10 +16,6 @@ Hope You Will Like The Game.. and also u can use the code to make your own versi
 
 #Instructions:
 * ##### Press Spacebar or Up Arrow Key ⬆️ to fly.
-* ##### Press Esc to exit.
----
-
-* Checkout my website [here](https://rohandas28.github.io/)
-* Follow Me On Instagram at [RohanDasRD](https://www.instagram.com/RohanDasRD)
+* ##### Press Esc
 
 
